@@ -79,9 +79,9 @@ Repository Files
 
 app.py — Streamlit application
 
-app-interface.jpg — application interface screenshot
+1783713237888.jpg — application interface screenshot
 
-app-demo.jpg — example summarization and sentiment result
+1783713238226.jpg — example summarization and sentiment result
 
 README.md — project documentation
 
